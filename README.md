@@ -5,6 +5,8 @@
 A very simple backend application that allows you to sync your audience / contact list in your mailchimp account.
 This application has an easy UI in order for you to take advantage the Mailchimp API.
 
+Visit Live Demo: [Mailchimp App](https://mailchimp.dionaguilar.com/)
+
 This connects with a frontend application:  [Contact Sync Backend](https://github.com/diontristen/contact-sync-be) that I created as well.
 
 ## Reminder
